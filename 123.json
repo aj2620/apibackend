@@ -1,0 +1,31 @@
+{
+    "backendlist":
+        {
+          "url" : "https://data-api.omniflix.studio/listings?denomId=onftdenom2ec102ccdaff41c4bda9d391195409e3&limit=1000",
+
+          "url2" : "https://data-api.omniflix.studio/listings?denomId=onftdenom63fdcaebdade45689458674ebac02d1a&limit=1000",
+
+          "url3" : "https://data-api.omniflix.studio/listings?denomId=onftdenom41c02706aa744c8c8dbab2535a5dbaf2&limit=1000",
+        
+          "url4" : "https://data-api.omniflix.studio/listings?denomId=onftdenom876d11b8010742768c1d65fe5cbab8c9&limit=1000",
+        
+          "url5" : "https://data-api.omniflix.studio/listings?denomId=onftdenom18cbfeb613e549f78f64a66d53ca7835&limit=1000",
+        
+          "url6" : "https://data-api.omniflix.studio/listings?denomId=onftdenomf8e29febfadd4774b25c9a3aac209805&limit=1000",
+        
+          "url7" : "https://data-api.omniflix.studio/listings?denomId=onftdenombbbf227ac69442908074277cf4f4fad6&limit=1000",
+        
+          "url9" :  "https://data-api.omniflix.studio/listings?denomId=onftdenom76bf784df0bf4c5691675f526431d46f&limit=1000"
+        }
+     ,
+
+     "tokengated":
+      {
+        "checkid" : "onftdenomfda91fb2771c44238cc9dd49133c75c1",
+      
+        "checkid2": "onftdenome386814a2d854fc29c92bd055abb6a64",
+      
+        "checkid3": "onftdenom58c6176039764fd4bed25a787b784402"
+      }
+     
+}
